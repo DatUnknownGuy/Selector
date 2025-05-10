@@ -226,7 +226,7 @@ submitBtn.MouseButton1Click:Connect(function()
 
         local modes = {
             {Name = "Altura Hub MM2", Script = "https://raw.githubusercontent.com/DatUnknownGuy/Altura-Hub/refs/heads/main/Altura%20HubV2.0.lua"},
-            {Name = "Position Tracker", Script = "https://raw.githubusercontent.com/DatUnknownGuy/Selector/refs/heads/main/Protected_PositionTracker.lua"}
+            {Name = "Position Tracker", Script = "https://raw.githubusercontent.com/DatUnknownGuy/Selector/refs/heads/main/PositionTracker.lua"}
         }
 
         for _, mode in ipairs(modes) do
